@@ -1,6 +1,6 @@
 # Agent Instructions
 
-Guidance for Claude Code when working in this repository.
+Guidance for Claude, Claude Code, ChatGPT, and Codex when working in this repository.
 
 This repo vendors shared standards skills from `/Users/xuser/notes/tkodev/software-skills`
 via symlinks at `.claude/skills/` and `.agents/skills/` (accessibility, components, data,
@@ -24,7 +24,7 @@ For developer-facing setup (scripts, directory tree, route map), see [`README.md
 
 ```
 .
-├── CLAUDE.md              # This file
+├── AGENTS.md              # This file
 ├── docs/
 │   └── prd/
 │       ├── PRD.md             # Top-level product requirements document
